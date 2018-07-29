@@ -27,6 +27,7 @@
 - Create and set delegate for clip corner layers within ASDisplayNode [Michael Schneider](https://github.com/maicki) [#1029](https://github.com/TextureGroup/Texture/pull/1029)
 - Improve locking situation in ASVideoPlayerNode [Michael Schneider](https://github.com/maicki) [#1042](https://github.com/TextureGroup/Texture/pull/1042)
 - Optimize drawing code + add examples how to round corners. [Michael Schneider](https://github.com/maicki)
+- Add NS_DESIGNATED_INITIALIZER to ASViewController initWithNode: [Michael Schneider](https://github.com/maicki) [#1054](https://github.com/TextureGroup/Texture/pull/1054)
 
 ## 2.7
 - Fix pager node for interface coalescing. [Max Wang](https://github.com/wsdwsd0829) [#877](https://github.com/TextureGroup/Texture/pull/877)
